@@ -49,11 +49,11 @@ With that said, the Float support can either be:
 - Shadow
 - Edgar
 - Mog
-- Gau counts technically, but is not recommended as you need to cast Float multiple times and at multiples points in the fight, and you can't do that when Gau is locked in a Rage.
+- Gau counts technically, but is not recommended as you need to cast Float multiple times and at multiples points in the fight, and you can't do that when Gau is locked in a Rage. You can use a Green Cherry to have him switch Rages but that still costs a turn (and a Green Cherry!).
 
 For this battle, I used Sabin because he has: 
 - access to Golem to block physical attacks by the Brown-D,
-- access to very decent firepower in equipping Ocean Claw (a Water-typed weapon) + another claw, maybe Stormfang, and 
+- access to very decent firepower in equipping Ocean Claw (a Water-typed claw) + another claw, maybe Stormfang, and 
 - support in his Mantra and Chakra Blitzes.
 
 When I am fairly certain that it will take a couple more turns/damage milestones for Brown-D to cast G-Zone, I designate Sabin to either attack with the Fight command, or to support the party with either Mantra or Chakra Blitzes, or maybe use a Tincture or an Ether or a Phoenix Down/Tear for any of my party members that need it.
@@ -81,6 +81,8 @@ In terms of Gau's rages, the best here would be Ninja mainly for him casting Nin
 
 #### V.C.II Blue-D
 
+A straightforward fight due to its Bolt weakness, and it's an easily accessible element offensively. Preparing for it defensively is straightforward as well: Gold Shields, Gold Armors, Gold Helms, Gator Hides, and Chocobo Hides all half Water damage.
+
 #### V.C.III Gold-D
 
 #### V.C.IV Green-D
@@ -93,7 +95,21 @@ Before fighting the dragon, I highly suggest getting the Flameguard inside the c
 
 #### V.C.VII Silver-D
 
+In contrast (yet similarly) to the Red-D, having an Iceguard in this fight makes this considerably easier. Other noteworthy defensive options are in Force Armor, Minerva, and Snow Muffler. 
+
+In this fight, the Silver-D can set the Frozen status on your party members, stunning them, effectively making them unable to act or evade attacks. The standard Remedy spell and Remedy item won't work in curing this status. One easy way to cure them of this is to thaw them out by casting a Fire spell on your afflicted party members. Another way is by casting Sun Bath, either with Gau via the Gargoyle, or Rhydon Rages, or with Mog via the Wind Song, Desert Aria, or Earth Blues Dances. With that said, if you choose to have Gau on the offensive instead of being locked to either the Gargoyle or Rhydon Rages, the Witch Rage is an okay-ish option **(TODO: Clarify if Refract reflects Holy and cure spells.)**
+
+Attack with Fire-typed weapons, spam Fire spells, and cast Ifrit and this should be a straightforward (and fairly easy) battle.
+
+**(TODO: What are the other ways of clearing the Frozen status via Dance or Rage? Options include Harvester from Gau's Rocky and Vulture rages, Ice Rabbit from Mog's Snowman Jazz, Meerkat from Mog's Desert Aria, Raccoon from Mog's Forest Suite, and Tapir from Mog's Love Sonata.)**
+
 #### V.C.VIII White-D
+
+One of the more fairly difficult dragons is weak to Dark.
+
+Sources of Dark damage are through the Sap, Poison, Dark, and Merton spells, the Crusader summon, Edgar's Bio Blaster Tool, Gau's Marlboro (Bio Blast), Shokan (Dark), and Windrunner (Blight) Rages, Mog's Water Rondo (Toxic Frog) Dance, the Poison Claws weapon (even though they fell off in terms of raw attack, it still performs better in this fight than Stormfang or Frostgore), and the Punisher weapon (its rod spellcast casts Dark).
+
+With that said, Strago does wonders against this boss fight. Access to Punisher, and the Dark spell will definitely help you out in dealing serious damage to this boss. Plus style points if you manage to cast Dark off of Punisher after landing from a party member who casted Palidor's Air Raid. 
 
 ### VI. Frequently Asked Questions
 

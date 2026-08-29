@@ -27,7 +27,32 @@ The Float and Slow spells are also effective against this boss, with the former 
 
 #### V.B. Doom Gaze
 
-#### V.C. Dragons
+#### V.C. MagiMaster
+
+This boss fight becomes relatively easy once you know how to deal with it: its gimmick is that it casts WallChange multiple times in the fight. WallChange is a defensive spell that enables the user to be weak to one element, absorb another element, and nullify the damage of all the other elements, which means that you have to figure out which element he is now weak to **(TODO: Fact check this! Determine if there's a pattern to the elements he becomes weak to in relation to the element he's absorbing.)**. To do that, you can either cast the Scan spell, or wait until he uses a spell. The damage type 
+
+With that said, to be ultra-prepared for the elements he shifts his weakness to, it's best to bring a party that covers most if not all of the elements. I achieved this using two characters:
+
+- Terra to cover:
+  - Fire in Fire, Fire 2, and Fire 3, 
+  - Ice in Ice 3, 
+  - Bolt in Bolt 3, and 
+  - Wind in Break
+- Mog to cover:
+  - Dark in Sap and Poison, 
+  - Wind in Break, 
+  - Earth in Quake (just make sure to protect your party by casting Float on it first), and 
+  - Holy in Longinus, a Holy-typed weapon
+
+If you do happen to hit the boss with an element he's not weak to, it nullifies the hit, dealing zero damage instead **(TODO: Fact check this! Is that all that happens? Does he counter attack maybe?)**. If you attempt to damage it using a non-elemental spell, it will use an Elixir on itself, greatly healing itself, and will cast WallChange again thereafter **(TODO: Fact check this!)**. It is possible that he WallChanges to the same element.
+
+It is important to note that spells that are of two types of elements such as Storm (Wind/Water-typed) or Merton (Fire/Dark-typed) won't be effective as it will just heal him instead and will prompt him heal himself up using Elxirt, and cast WallChange on itself right after **(TODO: Fact check this!)**.
+
+Hammer it down continuously using the appropriately-typed damage types, heal your party members, keep an eye on their MP pools, and victory should be yours.
+
+**(TODO: Test out the shortcuts that have once worked in the original game and see if it works here. Additionally, watch what happens if you try to use Dispel on it.)**
+
+#### V.D. Dragons
 
 In fighting the eight dragons, there are multiple options to make the fights easier for you: 
 
@@ -39,7 +64,7 @@ Golem is one of them. When you summon Golem, it will protect your party from phy
 
 When fighting the dragons, you will quickly realize that all of them **(TODO: Fact check this!)** have a party-wiping attack. Unless you are prepared for it by having enough HP to survive it or enough points in the M. Defense stat to tank it, your characters will most likely die to it. Having the Rerise status on your characters help combat this: allowing them to live again and continue fighting almost instantly. Furthermore, its two wielders, Celes and Setzer, have great supportive measures too! Seraph remains to be one of the more consistent sources of Rerises.
 
-#### V.C.I Brown-D
+#### V.D.I Brown-D
 
 For this boss fight, the trick here is to quickly cast the Float spell the moment Brown-D starts to cast a spell that grounds your party called G-Zone. Better if you can cast it the second the G-Zone header pops up on the top of your screen. Sources of Float are through the Stray (equippable by Sabin/Gau), Phantom (equippable by Celes/Shadow), and Palidor (equippable by Edgar/Mog) espers. You can press the X button to cycle through your "ready" characters so that you can input their moves, and have your "Float support" on standby waiting to cast Float the moment Brown-D casts G-Zone. I've found in my multiple attempts that there is a small window for your Float support to cast Float before Brown-D moves again, which will always be an Earth spell that would wipe out your whole party.
 
@@ -79,21 +104,21 @@ One of the main reasons why I chose Sabin as my Float support is because of his 
 
 In terms of Gau's rages, the best here would be Ninja mainly for him casting Ninja Wave.
 
-#### V.C.II Blue-D
+#### V.D.II Blue-D
 
 A straightforward fight due to its Bolt weakness, and it's an easily accessible element offensively. Preparing for it defensively is straightforward as well: Gold Shields, Gold Armors, Gold Helms, Gator Hides, and Chocobo Hides all half Water damage.
 
-#### V.C.III Gold-D
+#### V.D.III Gold-D
 
-#### V.C.IV Green-D
+#### V.D.IV Green-D
 
-#### V.C.V Purple-D
+#### V.D.V Purple-D
 
-#### V.C.VI Red-D
+#### V.D.VI Red-D
 
 Before fighting the dragon, I highly suggest getting the Flameguard inside the chest near it. It enables the wearer to absorbe Fire damage. Definitely a very helpful boon in this fight. 
 
-#### V.C.VII Silver-D
+#### V.D.VII Silver-D
 
 In contrast (yet similarly) to the Red-D, having an Iceguard in this fight makes this considerably easier. Other noteworthy defensive options are in Force Armor, Minerva, and Snow Muffler. 
 
@@ -103,7 +128,7 @@ Attack with Fire-typed weapons, spam Fire spells, and cast Ifrit and this should
 
 **(TODO: What are the other ways of clearing the Frozen status via Dance or Rage? Options include Harvester from Gau's Rocky and Vulture rages, Ice Rabbit from Mog's Snowman Jazz, Meerkat from Mog's Desert Aria, Raccoon from Mog's Forest Suite, and Tapir from Mog's Love Sonata.)**
 
-#### V.C.VIII White-D
+#### V.D.VIII White-D
 
 One of the more fairly difficult dragons is weak to Dark.
 

@@ -23,7 +23,11 @@ This guide is based on Final Fantasy VI - Brave New World 2.1.0. If you have any
 
 One word: Dispel. As soon as Atma flashes white and you can see a header pop up saying "Atma's power level is rising!" or "Atma is storing power!", cast Dispel on it and the game will tell you that Atma's defenses are down or that it lost its stored power, and it will go back to being vulnerable. Thankfully, Shadow, the party member that joins you at the start of your Floating Continent journey has Dispel through the Phantom esper.
 
-The Float and Slow spells are also effective against this boss, with the former allowing your party to dodge its Magnitudes. Keep in mind that you can cast Float on your party on the overworld, before you interact with Atma, to make your party enter the battle levitating. Just make sure to recast Float when it manages to Purge your party of its (positive) statuses and you'll be relatively safe.
+**(TODO: What are the differences of a fight vs Atma if the player avoids using Dispel vs if a player regularly uses Dispel against it?)**
+
+The Float and Slow spells are also effective against this boss, with the former allowing your party to dodge its Magnitudes **(TODO: Is it Magnitude or Quake?)**. Keep in mind that you can cast Float on your party on the overworld, before you interact with Atma, to make your party enter the battle levitating. Just make sure to recast Float when it manages to Purge your party of its (positive) statuses and you'll be relatively safe.
+
+One may also equip the Ribbon relic to protect itself from the negative statuses caused by the Mind Blast spell. Slap it on a support and it should help your party mitigate casualties throughout the fight.
 
 #### V.B. Doom Gaze
 
@@ -42,7 +46,7 @@ With that said, to be ultra-prepared for the elements he shifts his weakness to,
   - Dark in Sap and Poison, 
   - Wind in Break, 
   - Earth in Quake (just make sure to protect your party by casting Float on it first), and 
-  - Holy in Longinus, a Holy-typed weapon
+  - Holy in Longinus, a Holy-typed spear
 
 If you do happen to hit the boss with an element he's not weak to, it nullifies the hit, dealing zero damage instead **(TODO: Fact check this! Is that all that happens? Does he counter attack maybe?)**. If you attempt to damage it using a non-elemental spell, it will use an Elixir on itself, greatly healing itself, and will cast WallChange again thereafter **(TODO: Fact check this!)**. It is possible that he WallChanges to the same element.
 

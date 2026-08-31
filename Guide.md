@@ -27,7 +27,7 @@ One word: Dispel. As soon as Atma flashes white and you can see a header pop up 
 
 The Float and Slow spells are also effective against this boss, with the former allowing your party to dodge its Magnitudes **(TODO: Is it Magnitude or Quake?)**. Keep in mind that you can cast Float on your party on the overworld, before you interact with Atma, to make your party enter the battle levitating. Just make sure to recast Float when it manages to Purge your party of its (positive) statuses and you'll be relatively safe.
 
-One may also equip the Ribbon relic to protect itself from the negative statuses caused by the Mind Blast spell. Slap it on a support and it should help your party mitigate casualties throughout the fight.
+One may also equip the Ribbon relic to protect itself from the negative statuses caused by the Mind Blast spell. Slap it on a support and it should help your party mitigate casualties throughout the fight. **(TODO: Explain how to get a Ribbon at this point of the game.)**
 
 #### V.B. Doom Gaze
 
@@ -50,7 +50,7 @@ With that said, to be ultra-prepared for the elements he shifts his weakness to,
 
 If you do happen to hit the boss with an element he's not weak to, it nullifies the hit, dealing zero damage instead **(TODO: Fact check this! Is that all that happens? Does he counter attack maybe?)**. If you attempt to damage it using a non-elemental spell, it will use an Elixir on itself, greatly healing itself, and will cast WallChange again thereafter **(TODO: Fact check this!)**. It is possible that he WallChanges to the same element.
 
-It is important to note that spells that are of two types of elements such as Storm (Wind/Water-typed) or Merton (Fire/Dark-typed) won't be effective as it will just heal him instead and will prompt him heal himself up using Elxirt, and cast WallChange on itself right after **(TODO: Fact check this!)**.
+It is important to note that spells that are of two types of elements such as Storm (Wind/Water-typed) or Merton (Fire/Dark-typed) won't be effective as it will just heal him instead and will prompt him to heal himself up using Elixir, and cast WallChange on itself right after–repeating the cycle of figuring out what element he's weak to, and then proceeding to hit him with that element.
 
 Hammer it down continuously using the appropriately-typed damage types, heal your party members, keep an eye on their MP pools, and victory should be yours.
 

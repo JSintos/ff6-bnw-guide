@@ -1,3 +1,12 @@
+# Style Guide (TODO: Remove this before publishing the guide)
+
+- Status, not status effects.
+- On elements,
+  - When referring to an element, have the first letter of the word capitalized. 
+  - When referring to stuff of that element, append with the "-typed" suffix.
+    - An exception is when the element is followed by the word "damage". The "-typed" suffix is no longer needed, as in "Water damage".
+  - Although, the words "physical" and "magical", as in "physical damage", should not have the first letter capitalized.
+
 ### Table of Contents
 
 I. Author's Note & Foreword
@@ -33,7 +42,7 @@ One may also equip the Ribbon relic to protect itself from the negative statuses
 
 #### V.C. MagiMaster
 
-This boss fight becomes relatively easy once you know how to deal with it: its gimmick is that it casts WallChange multiple times in the fight. WallChange is a defensive spell that enables the user to be weak to one element, absorb another element, and nullify the damage of all the other elements, which means that you have to figure out which element he is now weak to **(TODO: Fact check this! Determine if there's a pattern to the elements he becomes weak to in relation to the element he's absorbing.)**. To do that, you can either cast the Scan spell, or wait until he uses a spell. The damage type 
+This boss fight becomes relatively easy once you know how to deal with it: its gimmick is that it casts WallChange multiple times in the fight. WallChange is a defensive spell that enables the user to be weak to one element, absorb another element, and nullify the damage of all the other elements, which means that you have to figure out which element he is now weak to **(TODO: Fact check this! Determine if there's a pattern to the elements he becomes weak to in relation to the element he's absorbing.)**. To do that, you can either cast the Scan spell, or wait until he uses a spell. The damage type of the spells he casts will always be the element he's weak to. He casts Bolt 3s? Spam it with Bolt-typed attacks. He casts Quake on your party? Counter with Earth-typed attacks. He casts Holy? Make sure to hit it with Holy-typed attacks!
 
 With that said, to be ultra-prepared for the elements he shifts his weakness to, it's best to bring a party that covers most if not all of the elements. I achieved this using two characters:
 
@@ -50,7 +59,7 @@ With that said, to be ultra-prepared for the elements he shifts his weakness to,
 
 If you do happen to hit the boss with an element he's not weak to, it nullifies the hit, dealing zero damage instead **(TODO: Fact check this! Is that all that happens? Does he counter attack maybe?)**. If you attempt to damage it using a non-elemental spell, it will use an Elixir on itself, greatly healing itself, and will cast WallChange again thereafter **(TODO: Fact check this!)**. It is possible that he WallChanges to the same element.
 
-It is important to note that spells that are of two types of elements such as Storm (Wind/Water-typed) or Merton (Fire/Dark-typed) won't be effective as it will just heal him instead and will prompt him to heal himself up using Elixir, and cast WallChange on itself right after–repeating the cycle of figuring out what element he's weak to, and then proceeding to hit him with that element.
+It is important to note that spells that are of two types of elements such as Storm (Wind/Water-typed) or Merton (Fire/Dark-typed) won't be effective as it will just heal him instead and will prompt him to use an Elixir on himself, and cast WallChange on himself right after–repeating the process all over again.
 
 Hammer it down continuously using the appropriately-typed damage types, heal your party members, keep an eye on their MP pools, and victory should be yours.
 
@@ -62,7 +71,7 @@ In fighting the eight dragons, there are multiple options to make the fights eas
 
 ##### Golem
 
-Golem is one of them. When you summon Golem, it will protect your party from physical attacks respective to your summoner's HP. The two Golem wielders, the two Figaro siblings, have considerably high HP meaning that your Earth Wall will definitely a block a lot of physical damage. This is insanely helpful as it protects your party from D-Claw, a strong attack that every dragon possesses. Getting to block it means that the dragon has effectively wasted a turn.
+Golem is one of them. When you summon Golem, it will protect your party from physical attacks respective to your summoner's HP. The two Golem wielders, the two Figaro siblings, have considerably high HP meaning that your Earth Wall will definitely block a lot of physical damage. This is insanely helpful as it protects your party from D-Claw, a strong physical attack that every dragon possesses. Getting to block it means that the dragon has effectively wasted a turn.
 
 ##### Seraph/Rerise
 
@@ -78,7 +87,7 @@ With that said, the Float support can either be:
 - Shadow
 - Edgar
 - Mog
-- Gau counts technically, but is not recommended as you need to cast Float multiple times and at multiples points in the fight, and you can't do that when Gau is locked in a Rage. You can use a Green Cherry to have him switch Rages but that still costs a turn (and a Green Cherry!).
+- Gau counts technically, but is not recommended as you need to cast Float multiple times and at multiples points in the fight, and you can't do that when Gau is locked in a Rage. You can use a Green Cherry to have him switch Rages but that still costs a turn (and a Green Cherry!)
 
 For this battle, I used Sabin because he has: 
 - access to Golem to block physical attacks by the Brown-D,
@@ -90,7 +99,7 @@ When I am fairly certain that it will take a couple more turns/damage milestones
 Edgar works here too since he has:
 
 - access to Golem,
-- access to Trident (a Water-typed spear. I do have to warn though that him being up in the air using the Jump command might be trickier to navigate as you might have him be in the air, helpless, when it's time to cast Float for your party),
+- access to Trident (a Water-typed spear. I do have to warn though that him being up in the air after using the Jump command might be trickier to navigate as you might have him be in the air, helpless, when it's time to cast Float for your party),
 - support capabilities in his Tools such as Defibrillator and Mana Battery, and spells such as the curative Cure 2 and the remedial Remedy.
 
 Mog accomplishes the same role as the previously mentioned siblings. He has:
@@ -99,7 +108,7 @@ Mog accomplishes the same role as the previously mentioned siblings. He has:
 - access to Trident (same caveat as Edgar),
 - amazing firepower in Water Rondo,
 - and has a plethora of support options in his Dances specifically:
-  - Love Sonata in Tapir (1/16, a decent effect that cures your party's MP, and lifts all bad statuses), and 
+  - Love Sonata in Tapir (1/16, cures your party's MP, and lifts all bad statuses), and 
   - Snowman Jazz in Mirage (3/16, randomly sets Image for your party) and Ice Rabbit (1/16, heals your party to max HP and sets Image).
 
 Do note that the Wind Song, Desert Aria, Forest Suite, Earth Blues, and Dusk Requiem Dances have spells that can heal Brown-D in Razor Leaf (3/16) **(TODO: Check if Razor Leaf heals Brown-D)**, Sand Storm (7/16), Razor Leaf (5/16), Avalanche (7/16), and Cave In (7/16) respectively.
@@ -114,31 +123,43 @@ A straightforward fight due to its Bolt weakness, and it's an easily accessible 
 
 #### V.D.III Gold-D
 
+At this point of the game, this boss fight should be easy to manage. Its Water weakness and multiple defensive options against Bolt damage help achieve that. The recently acquired Minerva should be helpful here too! Provided you either have Terra or Celes in your party to equip it with.
+
 #### V.D.IV Green-D
+
+Personally, I found this a tad more difficult than its golden counterpart. The difficulty mostly lied in me running out of Holy Waters to cure my zombified party members. The Ribbon relic helps in dealing with that. If you find yourself having difficulty with this fight because of the lack of Holy Waters in your inventory, feel free to warp out and buy some in Albrook down south from Kefka's Tower. Keep in mind that you have to restart the whole trek when you leave Kefka's Tower. Other than that, keep on whacking it with Holy, and Fire damage and the victory will be yours.
 
 #### V.D.V Purple-D
 
 #### V.D.VI Red-D
 
-Before fighting the dragon, I highly suggest getting the Flameguard inside the chest near it. It enables the wearer to absorbe Fire damage. Definitely a very helpful boon in this fight. 
+Before fighting the dragon, I highly suggest sneaking past it and getting the Flameguard inside the chest near it. It enables the wearer to absorb Fire damage which will definitely prove very helpful in this fight.
 
 #### V.D.VII Silver-D
 
-In contrast (yet similarly) to the Red-D, having an Iceguard in this fight makes this considerably easier. Other noteworthy defensive options are in Force Armor, Minerva, and Snow Muffler. 
+In contrast to the Red-D, having an Iceguard in this fight makes this considerably easier. Other noteworthy defensive options are in Force Armor, Minerva, and Snow Muffler. 
 
 In this fight, the Silver-D can set the Frozen status on your party members, stunning them, effectively making them unable to act or evade attacks. The standard Remedy spell and Remedy item won't work in curing this status. One easy way to cure them of this is to thaw them out by casting a Fire spell on your afflicted party members. Another way is by casting Sun Bath, either with Gau via the Gargoyle, or Rhydon Rages, or with Mog via the Wind Song, Desert Aria, or Earth Blues Dances. With that said, if you choose to have Gau on the offensive instead of being locked to either the Gargoyle or Rhydon Rages, the Witch Rage is an okay-ish option **(TODO: Clarify if Refract reflects Holy and cure spells.)**
 
-Attack with Fire-typed weapons, spam Fire spells, and cast Ifrit and this should be a straightforward (and fairly easy) battle.
+Attack with Fire-typed weapons, spam Fire spells, and cast Ifrit and this should be a straightforward (and easy) battle.
 
 **(TODO: What are the other ways of clearing the Frozen status via Dance or Rage? Options include Harvester from Gau's Rocky and Vulture rages, Ice Rabbit from Mog's Snowman Jazz, Meerkat from Mog's Desert Aria, Raccoon from Mog's Forest Suite, and Tapir from Mog's Love Sonata.)**
 
 #### V.D.VIII White-D
 
-One of the more fairly difficult dragons is weak to Dark.
+One of the more difficult dragons is weak to Dark.
 
 Sources of Dark damage are through the Sap, Poison, Dark, and Merton spells, the Crusader summon, Edgar's Bio Blaster Tool, Gau's Marlboro (Bio Blast), Shokan (Dark), and Windrunner (Blight) Rages, Mog's Water Rondo (Toxic Frog) Dance, the Poison Claws weapon (even though they fell off in terms of raw attack, it still performs better in this fight than Stormfang or Frostgore), and the Punisher weapon (its rod spellcast casts Dark).
 
 With that said, Strago does wonders against this boss fight. Access to Punisher, and the Dark spell will definitely help you out in dealing serious damage to this boss. Plus style points if you manage to cast Dark off of Punisher after landing from a party member who casted Palidor's Air Raid. 
+
+#### V.E Ultima
+
+This should be an easy fight. It's basically a rehashed version of the Atma fight in the Floating Continent. Even though there are no clear indicators anymore in the form of text boxes, I still used Dispel every time it glowed gray.
+
+#### V.F Guardian
+
+A long and annoying fight awaits you when you encounter this boss. Even though it says that it has shifted bosses, remember that it's still weak to Bolt and Water attacks.
 
 ### VI. Frequently Asked Questions
 
